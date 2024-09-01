@@ -1,5 +1,8 @@
 # Python Client-Server Project
 
+![Python_Diagrama](https://github.com/user-attachments/assets/70452f13-3bb1-459b-b7f9-4a8d7a5c987a)
+
+
 ## Overview
 
 This project is a Python-based client-server application designed to simulate a network of water stations, each equipped with alarms that report their status to a central server. The project demonstrates key concepts in network programming, file handling, and database management using Python. The communication between clients and the server is managed using sockets, and the server stores the data received from clients in an SQLite database.
